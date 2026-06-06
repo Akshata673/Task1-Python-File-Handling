@@ -1,2 +1,2 @@
-# pythondev-task1
-### Python File Handling and Automation Demo This notebook demonstrates: 1. Reading and Writing Files (TXT/CSV) 2. Automation (Rename/Move/Delete) 3. Exception Handling
+# task3-pythondev
+Goal Demonstrate data analysis skills using Pandas.  Requirements Load and inspect a CSV dataset Clean missing or incorrect data Apply filtering, grouping, and aggregation Explain insights in simple words Deliverables Notebook or Python script Short insight summary
